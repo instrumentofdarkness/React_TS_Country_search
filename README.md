@@ -22,7 +22,7 @@ This assignment is to practice TypeScript
 
 1. Naming convention
 2. Clear file structure
-3. Divided the project to small components
+3. Divide the project to small components
 4. Clean code: no console.log, no dead code,
 5. Format code (Prettier - Code formatter)
 6. Separate import from your own file and the import from the package
